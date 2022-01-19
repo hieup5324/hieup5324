@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hieup5324
-- 👀 I age "2002"
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Name = "Phan Minh Hieu"
+- 👀 Age = "2002"
+- 🌱 Gender = "Male"
+- 💞️ Address = "Quảng Ninh, Việt Nam";
+
 
 <!---
 hieup5324/hieup5324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
