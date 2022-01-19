@@ -1,7 +1,7 @@
 - 👋 Name = "Phan Minh Hieu"
-- 👀 Age = "2002"
+- 💞 Age = "2002"
 - 🌱 Gender = "Male"
-- 💞️ Address = "Quảng Ninh, Việt Nam";
+- 👀 Address = "Quảng Ninh, Việt Nam"
 
 
 <!---
