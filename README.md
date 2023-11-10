@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hieup5324&label=Profile%20views&color=0e75b6&style=flat" alt="hieup5324" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hieup5324" alt="hieup5324" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/phanhie12152449" target="blank"><img src="https://img.shields.io/twitter/follow/phanhie12152449?logo=twitter&style=for-the-badge" alt="phanhie12152449" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/phanhie12152449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phanhie12152449" height="30" width="40" /></a>
